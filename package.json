@@ -1,6 +1,9 @@
 {
   "name": "odin-recipes",
+  "version": "1.1.0",
+  "main": "index.html",
   "packageManager": "yarn@3.6.3",
+  "repository": "https://github.com/BigusChonker/odin-recipes.git",
   "scripts": {
     "release": "standard-version"
   },
