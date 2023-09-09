@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/BigusChonker/odin-recipes/compare/v1.1.0...v1.2.0) (2023-09-09)
+
+
+### Features
+
+* add new recipe page ([4221697](https://github.com/BigusChonker/odin-recipes/commit/4221697da46b09d807875c9ef31535cf60f7ae33))
+
 ## 1.1.0 (2023-09-08)
 
 
